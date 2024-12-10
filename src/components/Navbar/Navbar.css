@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .Navbar{
+    height: auto;
+    background-color: #91C295;
+    line-height: 40px;
+    padding:2px 70px;
+    display: flex;
+    list-style: none;
+    font-family: sans-serif;
+  }
+  .Navbar li{
+    padding: 0px 30px ;
+    text-align: center;
+    transition: all 0.4s;
+  }
+  .Navbar li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .Navbar li:hover{
+    background-color: aqua;
+  }

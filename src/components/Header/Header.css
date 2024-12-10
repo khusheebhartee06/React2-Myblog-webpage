@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .Header{
+    height: auto;
+    background-color: #028460;
+    line-height: 40px;
+    padding:30px 100px;
+    display: flex;
+    color: white;
+    border-bottom: 1px solid white;
+  }
+  .Header h1{
+    font-weight: 500;
+    font-size: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  .Header h3{
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+  }
+  
